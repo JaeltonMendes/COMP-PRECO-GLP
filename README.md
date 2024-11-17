@@ -21,5 +21,5 @@ Definição de onde os dados seriam coletados (a fonte) e do método de coleta a
 - [x]  **Criação de relatório no Power BI**<br>
 O próprio Power BI foi utilizado como camada de cubo e visualização. Além disso, todos os dados foram importados diretamente do Data Warehouse, e as medidas e cálculos foram desenvolvidos em DAX, conforme o levantamento de requisitos. 
 
-![image](https://user-images.githubusercontent.com/25754870/191130346-3c8b2480-da04-41a6-b2b4-0216cf060651.png)![image](https://user-images.githubusercontent.com/25754870/191130152-6d6289ad-fc03-4a9a-a0b0-92c626af9880.png)
+![image](https://github.com/user-attachments/assets/fe6ca76a-a8a2-4d72-a9a5-f3ac6b6a6944)![image](https://github.com/user-attachments/assets/f0cf7f2f-ef5e-4e30-9354-c8b0d6a47e87)
 [Ver relatório online](https://app.powerbi.com/view?r=eyJrIjoiOGI0Mjk2NTgtZDEyOS00ODE3LTliYWUtNzA4MzViNzI5YzBkIiwidCI6IjgyODY3NTQ1LTY3NzEtNGY0NC04N2I4LTUyODEyOTlkMTI0ZSJ9)
