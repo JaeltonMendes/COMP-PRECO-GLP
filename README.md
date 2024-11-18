@@ -7,7 +7,7 @@ Foi desenvolvida toda a estrutura de Business Intelligence (BI), desde o levanta
 
 ## Ferramentas utilizadas
 - Para criação do layout foi utilizado o **[Figma](https://www.figma.com/pt-br/downloads/)**;
-- Para armazenamento de dados, criação de tabelas, processo de ETL e para consultas no banco foi utilizado o **[BigQuery](https://cloud.google.com/bigquery/?hl=pt-BR)**;
+- Para armazenamento de dados, criação de tabelas e para consultas no banco foi utilizado o **[BigQuery](https://cloud.google.com/bigquery/?hl=pt-BR)**;
 - Para criação do dashboard foi utilizado o **[Power BI](https://powerbi.microsoft.com/pt-br/)**.
 
 ## Desenvolvimento
