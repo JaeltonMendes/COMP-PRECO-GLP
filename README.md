@@ -8,7 +8,7 @@ Foi desenvolvida toda a estrutura de Business Intelligence (BI), desde o levanta
 ## Ferramentas utilizadas
 - Para criação do layout foi utilizado o **[Figma](https://www.figma.com/pt-br/downloads/)**;
 - Para armazenamento de dados, criação de tabelas e para consultas no banco foi utilizado o **[BigQuery](https://cloud.google.com/bigquery/?hl=pt-BR)**;
-- Para criação do dashboard foi utilizado o **[Power BI](https://powerbi.microsoft.com/pt-br/)**.
+- Para criação do painel foi utilizado o **[Power BI](https://powerbi.microsoft.com/pt-br/)**.
 
 ## Desenvolvimento
 O projeto foi realizado em três etapas principais:
@@ -18,7 +18,7 @@ Foram compreendidas as necessidades do usuário a fim de identificar quais probl
 - [x]  **Conexão com a fonte de dados**<br>
 Definição de onde os dados seriam coletados (a fonte) e do método de coleta a ser utilizado.
 
-- [x]  **Criação de relatório no Power BI**<br>
+- [x]  **Criação do painel no Power BI**<br>
 O próprio Power BI foi utilizado como camada de CUBO e visualização. Além disso, todos os dados foram importados diretamente do Data Warehouse, e as medidas e cálculos foram desenvolvidos em DAX, conforme o levantamento de requisitos. 
 
 ![image](https://github.com/user-attachments/assets/fe6ca76a-a8a2-4d72-a9a5-f3ac6b6a6944)![image](https://github.com/user-attachments/assets/f0cf7f2f-ef5e-4e30-9354-c8b0d6a47e87)
