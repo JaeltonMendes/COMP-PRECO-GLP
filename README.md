@@ -5,6 +5,13 @@ Foi desenvolvida toda a estrutura de Business Intelligence (BI), desde o levanta
 
 ---
 
+## Objetivo
+
+Trata-se de avaliar se o desenvolvimento desse produto de dados pode auxiliar o consumidor final na tomada de decisão no momento da compra do gás liquefeito de petróleo. O intuito é disponibilizar recursos que possibilitem obter respostas para determinadas questões pessoais, como, por exemplo:
+- Qual é o preço médio do gás de cozinha na minha região?
+- Quais são as distribuidoras de gás de cozinha que têm os menores preços na minha cidade?
+- O preço do gás de cozinha no meu estado aumentou ou diminui em comparação ao mês passado?
+
 ## Ferramentas utilizadas
 - Para criação do layout foi utilizado o **[Figma](https://www.figma.com/pt-br/downloads/)**;
 - Para armazenamento de dados, criação de tabelas e para consultas no banco foi utilizado o **[BigQuery](https://cloud.google.com/bigquery/?hl=pt-BR)**;
