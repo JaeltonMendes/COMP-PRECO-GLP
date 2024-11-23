@@ -12,7 +12,7 @@ Trata-se de avaliar se o desenvolvimento desse produto de dados pode auxiliar o 
 - Quais são as distribuidoras de gás de cozinha que têm os menores preços na minha cidade?
 - O preço do gás de cozinha no meu estado aumentou ou diminui em comparação ao mês passado?
 
-## Ferramentas utilizadas
+## Ferramentas
 - Para criação do layout foi utilizado o **[Figma](https://www.figma.com/pt-br/downloads/)**;
 - Para armazenamento de dados, criação de tabelas e para consultas no banco foi utilizado o **[BigQuery](https://cloud.google.com/bigquery/?hl=pt-BR)**;
 - Para criação do painel foi utilizado o **[Power BI](https://powerbi.microsoft.com/pt-br/)**.
