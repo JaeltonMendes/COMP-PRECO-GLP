@@ -28,5 +28,5 @@ Definição de onde os dados seriam coletados (a fonte) e do método de coleta a
 - [x]  **Criação do painel no Power BI**<br>
 O próprio Power BI foi utilizado como camada de CUBO e visualização. Além disso, todos os dados foram importados diretamente do Data Warehouse, e as medidas e cálculos foram desenvolvidos em DAX, conforme o levantamento de requisitos. 
 
-![image](https://github.com/user-attachments/assets/fe6ca76a-a8a2-4d72-a9a5-f3ac6b6a6944)![image](https://github.com/user-attachments/assets/f0cf7f2f-ef5e-4e30-9354-c8b0d6a47e87)
+![image](https://github.com/user-attachments/assets/fe6ca76a-a8a2-4d72-a9a5-f3ac6b6a6944)![image](https://github.com/user-attachments/assets/32aeb69e-ab1b-49dd-9227-1b347ea45d16)
 [Ver painel online](https://app.powerbi.com/view?r=eyJrIjoiOGI0Mjk2NTgtZDEyOS00ODE3LTliYWUtNzA4MzViNzI5YzBkIiwidCI6IjgyODY3NTQ1LTY3NzEtNGY0NC04N2I4LTUyODEyOTlkMTI0ZSJ9)
